@@ -58,16 +58,16 @@ Data in Brief 35, 106877, 2021
 # Projects
 
 - Quantum Technologies Alliance for Research Challenge
-Scotland-Korea Collaboration on Quantum Simulation in Asset Pricing based on the Quantum Harmonic Oscillator, 2025, £10,000 (Investigator)
+> Scotland-Korea Collaboration on Quantum Simulation in Asset Pricing based on the Quantum Harmonic Oscillator, 2025, £10,000 (Investigator)
 
 - Ministry of Trade, Industry & Energy
-Development of Intelligent Management Solution for Nuclear Decommissioning Site Characterization, 2021–2024, $169,221 (Investigator)
+> Development of Intelligent Management Solution for Nuclear Decommissioning Site Characterization, 2021–2024, $169,221 (Investigator)
 
 - National Research Foundation of Korea
-Development of Real Estate Index with AI: Sentiment, Structure, and Floating Population, 2022–2025, $137,616 (Investigator)
+> Development of Real Estate Index with AI: Sentiment, Structure, and Floating Population, 2022–2025, $137,616 (Investigator)
 
 - Future-leading Research Initiative at Yonsei University
-Development of housing price estimation system using artificial intelligence and machine learning, 2020–2023, $129,704 (Investigator)
+> Development of housing price estimation system using artificial intelligence and machine learning, 2020–2023, $129,704 (Investigator)
 
 
 
